@@ -1,0 +1,4 @@
+Hello, welocome to AI/ML with python
+How are you 
+what is your name?
+Do you like coding?
